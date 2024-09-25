@@ -1,3 +1,3 @@
-module github.com/camtwatson/learnGoWithTest
+module hello
 
 go 1.18
